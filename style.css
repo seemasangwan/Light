@@ -1,0 +1,47 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: rgb(2, 15, 52);
+}
+.container
+{
+    margin:10%;
+    padding:20px;
+    border:2px solid red;
+    justify-content: center;
+    text-align:center;
+    background-color:white;
+
+}
+h1
+{
+    margin-bottom: 20px;
+    border: 0px solid green;
+    text-align: center;
+    width:80%;
+    margin-left: 10%;
+    margin-right:1cm;
+    font-family: cursive;
+    color: rgb(69, 3, 3);
+}
+
+button
+{
+ display: inline-block;
+ width:20%;
+ padding:3%;
+margin:10%;
+margin-top:10%;
+border-radius: 20px;
+background-color: aliceblue;
+}
+img
+{
+margin-top:20px;  
+margin-bottom: 50px;
+width:100px;
+ 
+}
